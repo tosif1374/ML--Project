@@ -1,0 +1,5 @@
+[ 2025-10-19 17:59:26,746 ] INFO - NumExpr defaulting to 12 threads.
+[ 2025-10-19 17:59:27,599 ] INFO - Entered the data ingestion method or component
+[ 2025-10-19 17:59:27,619 ] INFO - Read the dataset as dataframe
+[ 2025-10-19 17:59:27,625 ] INFO - Train test split initiated
+[ 2025-10-19 17:59:27,634 ] INFO - Ingestion of the data is completed
