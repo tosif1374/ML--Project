@@ -1,0 +1,22 @@
+[ 2025-10-21 12:12:51,032 ] INFO - NumExpr defaulting to 12 threads.
+[ 2025-10-21 12:12:57,845 ] INFO - === Starting data ingestion pipeline ===
+[ 2025-10-21 12:12:57,845 ] INFO - Entered the data ingestion method or component
+[ 2025-10-21 12:12:57,845 ] INFO - Attempting to read CSV from: notebook\study.csv
+[ 2025-10-21 12:12:57,873 ] INFO - Read the dataset as dataframe
+[ 2025-10-21 12:12:57,873 ] INFO - Dataset shape: (1000, 8)
+[ 2025-10-21 12:12:57,886 ] INFO - Saved raw data to: artifacts\data.csv
+[ 2025-10-21 12:12:57,887 ] INFO - Train test split initiated
+[ 2025-10-21 12:12:57,902 ] INFO - Saved train data to: artifacts\train.csv
+[ 2025-10-21 12:12:57,904 ] INFO - Saved test data to: artifacts\test.csv
+[ 2025-10-21 12:12:57,904 ] INFO - Ingestion of the data is completed
+[ 2025-10-21 12:12:57,904 ] INFO - Data ingestion successful: artifacts\train.csv, artifacts\test.csv
+[ 2025-10-21 12:12:57,972 ] INFO - Read train and test data completed
+[ 2025-10-21 12:12:57,973 ] INFO - Obtaining preprocessing object
+[ 2025-10-21 12:12:57,973 ] INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[ 2025-10-21 12:12:57,973 ] INFO - Numerical columns: ['reading score', 'writing score']
+[ 2025-10-21 12:12:57,977 ] INFO - Applying preprocessing object on training and testing dataframes
+[ 2025-10-21 12:12:58,027 ] INFO - Preprocessing object saved to: artifacts\preprocessor.pkl
+[ 2025-10-21 12:12:58,028 ] INFO - Data transformation completed
+[ 2025-10-21 12:12:58,028 ] INFO - Split training and test input data
+[ 2025-10-21 12:14:54,223 ] INFO - Best found model on both training and testing dataset
+[ 2025-10-21 12:14:54,234 ] INFO - Model training result: 0.8804332983749564
