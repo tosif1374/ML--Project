@@ -1,0 +1,18 @@
+[ 2025-10-22 12:04:47,443 ] WARNING -  * Debugger is active!
+[ 2025-10-22 12:04:47,447 ] INFO -  * Debugger PIN: 386-161-066
+[ 2025-10-22 12:04:47,452 ] WARNING -  * Debugger is active!
+[ 2025-10-22 12:04:47,454 ] INFO -  * Debugger PIN: 386-161-066
+[ 2025-10-22 12:04:47,725 ] WARNING -  * Debugger is active!
+[ 2025-10-22 12:04:47,727 ] INFO -  * Debugger PIN: 386-161-066
+[ 2025-10-22 12:10:34,937 ] INFO - 127.0.0.1 - - [22/Oct/2025 12:10:34] "GET / HTTP/1.1" 200 -
+[ 2025-10-22 12:10:34,979 ] INFO - 127.0.0.1 - - [22/Oct/2025 12:10:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-10-22 12:13:49,015 ] INFO - 10.177.6.121 - - [22/Oct/2025 12:13:49] "GET / HTTP/1.1" 200 -
+[ 2025-10-22 12:13:49,065 ] INFO - 10.177.6.121 - - [22/Oct/2025 12:13:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-10-22 12:14:18,565 ] INFO - 127.0.0.1 - - [22/Oct/2025 12:14:18] "GET / HTTP/1.1" 200 -
+[ 2025-10-22 12:17:47,435 ] INFO - 127.0.0.1 - - [22/Oct/2025 12:17:47] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-10-22 12:18:14,555 ] INFO -  * Detected change in 'C:\\Users\\TOSIF QURESHI\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2025-10-22 12:18:14,556 ] INFO -  * Detected change in 'C:\\Users\\TOSIF QURESHI\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2025-10-22 12:18:14,607 ] INFO -  * Detected change in 'C:\\Users\\TOSIF QURESHI\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\_set_output.py', reloading
+[ 2025-10-22 12:18:14,610 ] INFO -  * Detected change in 'C:\\Users\\TOSIF QURESHI\\anaconda3\\Lib\\site-packages\\sklearn\\compose\\_column_transformer.py', reloading
+[ 2025-10-22 12:18:14,614 ] INFO -  * Detected change in 'C:\\Users\\TOSIF QURESHI\\anaconda3\\Lib\\site-packages\\sklearn\\compose\\_column_transformer.py', reloading
+[ 2025-10-22 12:18:14,625 ] INFO - 127.0.0.1 - - [22/Oct/2025 12:18:14] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
